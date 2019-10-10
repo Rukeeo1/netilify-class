@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -19,4 +19,21 @@
 
 .App-link {
   color: #09d3ac;
+} */
+
+
+.nav{
+  display: flex;
+  border:1px solid red;
+}
+.logo{
+  flex: 1; 
+}
+.title{
+  flex: 3;
+  text-align: center;
+}
+
+.bars{
+  flex: 1; 
 }
